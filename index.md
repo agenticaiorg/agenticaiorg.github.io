@@ -6,4 +6,4 @@ description: "Homepage for agenticai.org"
 permalink: /
 ---
 
-# agenticai.org
+# theagenticai.org
