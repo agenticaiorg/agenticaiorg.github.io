@@ -10,6 +10,9 @@ favicon_ico: "/favicon.ico"
 #aux_links:
 #  Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
+# Google Analytics
+google_analytics: "G-ZQXM1VQ7GT, GT-K5LBKFD6"
+
 permalink: pretty
 
 defaults:
