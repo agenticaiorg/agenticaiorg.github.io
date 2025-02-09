@@ -1,6 +1,6 @@
 ---
 title: Overview
-layout: home
+layout: default
 nav_order: 1
 description: "Homepage for theagenticai.org"
 permalink: /
