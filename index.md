@@ -34,4 +34,4 @@ Over the next few decades, AI went through periods of hype and disillusionment. 
 
 ## Agentic AI
 
-This brings us to the most nascent advancement being created on top of agents and AI - Agentic AI. It can be though of as *"artificial intelligence systems designed to act autonomously within an environment, capable of making decisions and performing actions with minimal human intervention."*
+This brings us to the most nascent advancement being created on top of agents and AI - Agentic AI. It can be thought of as *"artificial intelligence systems designed to act autonomously within an environment, capable of making decisions and performing actions with minimal human intervention."*
