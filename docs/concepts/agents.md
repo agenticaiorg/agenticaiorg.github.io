@@ -1,10 +1,10 @@
 ---
-title: Agent Definitions
+title: Key Definitions
 parent: Concepts
 nav_order: 2.1
 ---
 
-# Agent Definitions
+# Key Definitions
 
 ## Agent
 An entity with a specific role that can exchange messages to send and receive information from other agents. An agent acts on behalf of its user and may possess properties such as autonomy, intelligence, learning ability, proactivity, and reactivity. Agents can be anything from software programs to robots, characterized by their ability to perceive, reason, and act. They exchange messages to send and receive information from other agents. 

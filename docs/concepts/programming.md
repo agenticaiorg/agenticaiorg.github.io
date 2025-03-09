@@ -1,10 +1,10 @@
 ---
-title: Agent Programming
+title: Programming
 parent: Concepts
 nav_order: 2.3
 ---
 
-# Agent Programming
+# Programming
 
 ## Agent-Oriented Programming (AOP)
 A programming paradigm centred around the concept of agents with beliefs, commitments, and capabilities. It provides a framework for designing and implementing complex agent systems.
