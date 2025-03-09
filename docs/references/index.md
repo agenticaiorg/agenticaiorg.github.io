@@ -27,4 +27,5 @@ Yaliang Li
 18. Software Agent Technology: An Overview. Agent and Web Service Technologies in Virtual Enterprises - Chrysanthi Ε. Georgakarakou and Anastasios A. Economides
 19. Site Reliability Engineering - Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Richard Murphy and Google SRE Teams
 20. Software Architecture Patterns - Mark Richards
-21. 
+21. Clean Architecture: A Craftsman’s Guide to Software Structure and Design - Robert C. Martin
+22. Enterprise Integration Patterns: Designing, Building And Deploying Messaging - Gregor Hohpe and Bobby Woolf
