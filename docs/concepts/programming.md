@@ -7,7 +7,7 @@ nav_order: 2.3
 # Programming
 
 ## Agent-Oriented Programming (AOP)
-A programming paradigm centred around the concept of agents with beliefs, commitments, and capabilities. It provides a framework for designing and implementing complex agent systems.
+A programming paradigm centred around the concept of agents with beliefs, commitments, and capabilities. It provides a framework for designing and implementing complex agent systems. AOP specializes object-oriented programming by fixing the state of modules (agents) to include mental components and by using communication primitives based on speech acts like informing, requesting, and offering.
 
 ## Belief-Desire-Intention (BDI) Model
 A model of agency where agents' behaviour is driven by their beliefs, desires, and intentions. This model provides a basis for reasoning about goals, plans, and actions.

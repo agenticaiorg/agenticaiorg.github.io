@@ -19,4 +19,19 @@ Avoiding unnecessary or duplicate content in sub-tasks. This reduces inefficienc
 Agent stores and retrieves conversations, actions, and observations across various timescales. This allows them to learn from experience, maintain context, and make more informed decisions.
 
 ## Action Awareness
-Enables agents to assess their own state and performance, allowing for moment-by-moment adjustments.  This self-awareness allows agents to make moment-by-moment adjustments, correct errors, and optimize their behavior.
+Enables agents to assess their own state and performance, allowing for moment-by-moment adjustments.  This self-awareness allows agents to make moment-by-moment adjustments, correct errors, and optimize their behaviour.
+
+## Feedback Loop
+Incorporating a Feedback Loop allows agents to learn from their actions and environmental responses, improving their performance over time.
+
+## Reward Model
+Consideration of a Reward Model is crucial when designing learning agents, as it shapes the agent's behaviour by defining what constitutes a desirable outcome.
+
+## Termination Condition
+Designing for Clear Termination Conditions is important to ensure agents (especially in multi-agent conversations) know when a task or interaction is complete.
+
+## State Management
+Effective State Management is necessary for agents to keep track of their plans, completed tasks, and the results of their actions.
+
+## Human In The Loop (HITL)
+Human-in-the-loop design principles might be incorporated to allow for human oversight and intervention in agent processes.
