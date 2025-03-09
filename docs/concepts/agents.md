@@ -18,7 +18,7 @@ Agents can be viewed as manifesting intentionality and other aspects of "mental 
 ## Autonomy
 The ability of agents to act independently without external control. This means the agent can make decisions and take actions based on its own internal state and goals. This means the agent can make decisions and take actions based on its own internal state and goals.
 
-## Reactivity:
+## Reactivity
 The capacity to perceive its environment and respond in a timely fashion to changes that occur in it. This responsiveness is crucial for adapting to dynamic and unpredictable situations.
 
 ## Pro-activeness
