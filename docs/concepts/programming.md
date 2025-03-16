@@ -12,8 +12,8 @@ A programming paradigm centred around the concept of agents with beliefs, commit
 ## Belief-Desire-Intention (BDI) Model
 A model of agency where agents' behaviour is driven by their beliefs, desires, and intentions. This model provides a basis for reasoning about goals, plans, and actions.
 
-## Fact Statements
-Fundamental statements used to specify the content of actions and conditions for their execution. These statements form the basis for reasoning about actions and their effects.
-
 ## Commitment Rules 
 Rules that guide an agent's commitments based on message conditions, mental conditions, and actions. These rules determine how an agent responds to communication and how it commits to future actions.
+
+## Fact Statements
+Fundamental statements used to specify the content of actions and conditions for their execution. These statements form the basis for reasoning about actions and their effects.

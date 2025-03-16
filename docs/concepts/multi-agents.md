@@ -9,17 +9,17 @@ nav_order: 2.4
 ## Multi-Agent System (MAS)
 A system composed of multiple interacting agents. These systems can exhibit complex behaviours and emergent properties.
 
+## Agent-Oriented Planning
+Decomposing user queries into sub-tasks that can be allocated to suitable agents. This allows for efficient and distributed problem-solving.
+
 ## Cooperation
 Agents working together, which requires understanding the types of interactions between them. This requires agents to coordinate their actions, share information, and resolve conflicts.
-
-## Negotiation
-A process by which agents communicate offers, counteroffers, and arguments to reach a mutually acceptable agreement. This is particularly important when agents have conflicting goals or limited resources.
 
 ## Meta-Agent
 An agent that manages other agents to decompose tasks, allocate resources, and evaluate performance. It may be responsible for tasks such as decomposing problems, allocating resources, monitoring performance, and coordinating activities.
 
-## Agent-Oriented Planning
-Decomposing user queries into sub-tasks that can be allocated to suitable agents. This allows for efficient and distributed problem-solving.
+## Negotiation
+A process by which agents communicate offers, counteroffers, and arguments to reach a mutually acceptable agreement. This is particularly important when agents have conflicting goals or limited resources.
 
 ## Social Ability 
 This is fundamental to MAS, enabling agents to cooperate, coordinate, and negotiate with one another. Social Awareness allows agents to interpret and respond to social cues from other agents, supporting cooperation and communication. This is closely related to the concept of Theory of Mind, the ability to understand the actions and thoughts of others.
