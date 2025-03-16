@@ -9,7 +9,7 @@ permalink: /
 <img src="/assets/images/favicon.jpg" alt="logo" style="width:100px;height:100px"/>
 
 # Overview 
-As the pace of AI accelerates globally, it is becoming clear that Agentic AI will be one of the main forms of developing AI systems. As the name implies, it is a combination of two concepts - Agents and AI. The goal of this site is to collate, ideate and disseminate various aspects of Agentic AI.
+As the pace of AI accelerates globally, it is becoming clear that Agentic AI will be one of the main forms of developing AI systems. As the name implies, it is a combination of two concepts - Agents and AI. 
 
 ## Agents
 
