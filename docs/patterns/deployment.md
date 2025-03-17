@@ -4,14 +4,14 @@ parent: Design Patterns
 nav_order: 4.3
 ---
 
-## Containerization and Orchestration
-The need for scalability and managing pools of agents strongly suggests the relevance of containerization (e.g., Docker) and orchestration platforms (e.g., Kubernetes) for deploying Agentic AI. These technologies allow for easy packaging, deployment, scaling, and management of agent containers across various infrastructure providers, offering robustness and resource efficiency.
-
 # Deployment Patterns
 From a deployment point of view for Agentic AI, patterns can be understood as reusable strategies for making AI agent systems operational in a reliable and scalable manner. In essence, deploying Agentic AI systems requires a multifaceted approach that considers the distributed nature of many such systems, the frameworks used for development, the need for scalability and reliability, the potential for human interaction, and the integration with existing infrastructure and external resources. The choice of deployment patterns will depend on the specific use case, the architecture of the agents, and the desired level of autonomy and interaction.
 
 ## "Agentification" and Integration with Existing Systems
 Deploying Agentic AI might involve "agentifying" existing software or hardware by wrapping them with an agent interface. The deployment pattern here focuses on integrating these agent wrappers with the broader agent system, often requiring the use of APIs or specific communication protocols to interact with the underlying legacy components.
+
+## Containerization and Orchestration
+The need for scalability and managing pools of agents strongly suggests the relevance of containerization (e.g., Docker) and orchestration platforms (e.g., Kubernetes) for deploying Agentic AI. These technologies allow for easy packaging, deployment, scaling, and management of agent containers across various infrastructure providers, offering robustness and resource efficiency.
 
 ## Deployment Considerations Based on Agent Architecture
 The underlying architecture of the AI agent (e.g., reactive, deliberative, hybrid, BDI) can influence deployment strategies. For example, agents requiring low-latency responses might be deployed closer to the data source or user or device, while computationally intensive agents might need deployment on more powerful infrastructure.
