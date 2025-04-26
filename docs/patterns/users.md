@@ -22,6 +22,9 @@ Humans explicitly instruct agents to perform specific tasks or provide precise c
 ## Human-in-the-Loop Collaboration
 Humans and AI agents work together iteratively on a task, with humans providing guidance, feedback, and making critical decisions while the agent handles sub-tasks, gathers information, or executes actions. For example, in a claims processing scenario, an AI agent might gather initial information and prepare a draft, which a human expert then reviews and approves.
 
+## Mode
+Humans can interact with agents through various modes. The modes could be based on access control level (ACL) permissions. The modes allow the users to browse (view capabilities), use (interact with agent), administer (configure the beaviour or update capabilites).
+
 ## Providing Feedback and Oversight
 Humans monitor the actions and outputs of AI agents, providing feedback to correct errors, refine behaviour, and ensure alignment with human values and goals. This is crucial for building trustworthy AI systems. Mechanisms for human approval workflows and escalation protocols fall under this pattern.
 
