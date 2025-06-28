@@ -29,3 +29,6 @@ Yaliang Li
 20. Software Architecture Patterns - Mark Richards
 21. Clean Architecture: A Craftsman’s Guide to Software Structure and Design - Robert C. Martin
 22. Enterprise Integration Patterns: Designing, Building And Deploying Messaging - Gregor Hohpe and Bobby Woolf
+23. Stanford University Human Centred Artificial Intelligence
+24. Agent 2 Agent Protocol (A2A)
+25. Model Context Protocol (MCP)
