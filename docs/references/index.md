@@ -32,3 +32,4 @@ Yaliang Li
 23. Stanford University Human Centred Artificial Intelligence
 24. Agent 2 Agent Protocol (A2A)
 25. Model Context Protocol (MCP)
+26. Self-Adapting Language Models - Adam Zweiger , Jyothish Pari1, Han Guo, Ekin Akyürek, Yoon Kim, Pulkit Agrawal
